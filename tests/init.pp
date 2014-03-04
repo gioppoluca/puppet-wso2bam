@@ -1,0 +1,1 @@
+include wso2bam
